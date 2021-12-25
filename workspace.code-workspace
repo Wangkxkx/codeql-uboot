@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[u-boot_u-boot_d0d07ba source archive]",
+			"uri": "codeql-zip-archive://1-243/c:\\Users\\lenovo\\AppData\\Roaming\\Code\\User\\workspaceStorage\\212b4280b59524e95924ee4adff6f0b3\\GitHub.vscode-codeql\\u-boot_u-boot_cpp-srcVersion_d0d07ba86afc8074d79e436b1ba4478fa0f0c1b5-dist_odasa-2019-07-25-linux64\\u-boot_u-boot_d0d07ba\\src.zip"
+		}
+	],
+  "settings": {}
+}
